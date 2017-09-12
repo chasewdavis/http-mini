@@ -84,7 +84,7 @@ Bonus - notifications:
 
 #### DELETE
 
-##### Delete vehicle by id
+
 - Request url: base url + '/api/vehicles/:id'
 - Response: updated vehicles array
 
